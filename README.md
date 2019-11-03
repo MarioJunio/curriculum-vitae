@@ -10,9 +10,11 @@ E-mail: dev.mario.93@gmail.com
 
 Github: MarioJunio
 
+Português: Nativo
+
 Inglês: Avançado
 
-Espanhol: Intermediário
+Espanhol: Avançado
 
 ## Competências
 ### Back-End
@@ -23,6 +25,7 @@ Espanhol: Intermediário
   * JSF 
   * CDI
   * JPA e Hibernate
+  * Lombok
   * Bean Validation
   * JWT
   * EJB
@@ -44,15 +47,19 @@ Espanhol: Intermediário
   * SASS
   * LESS
   * JQuery
-  * AngularJS
-  * Angular
   * ES6
   * Handlebars
+* AngularJS
+* Angular
+* React
 * Thymeleaf
 * PrimeFaces
 * TypeScript
 * Bootstrap
 * Gulp
+* Yarn
+* Highcharts
+* ChartJS
 * Design responsivo
 
 ### Mobile
@@ -60,7 +67,8 @@ Espanhol: Intermediário
   * Java
 * iOS
   * Swift 4
-* Ionic 2
+* React Native
+* Ionic
 * PhoneGap
 
 ### Desktop
@@ -105,17 +113,18 @@ Espanhol: Intermediário
 
 ## Projetos e aplicações:
 
-* Software comercial para gerenciar e realizar vendas na web utilizando JavaEE, JSF 2, PrimeFaces, Hibernate(PostgreSQL) e Jasper Reports.
-* Aplicativo mobile para realizar e gerenciar vendas e sincroniza-las utilizando RESTful do Software comercial.
-* Software para listar as notas fiscais emitidas contra o CNPJ de uma empresa na web utilizando JavaEE, Spring Boot, JQuery e MaterializeCSS.
-* Software desktop para se comunicar com os web services da SEFAZ através de um token na porta USB e persistir as NFe no banco de dados remoto utilizando JavaFX, Hibernate(MySQL), WSDL e NFeClient.
-* Aplicativo mobile para conversas em tempo real com a funcionalidade de visualizar a lista de amigos em tempo real no Google Maps utilizando Java(Android Studio), JavaEE, Spring Boot, OpenFire Server, Smack Client e Google Maps API v3.
-* Aplicativo mobile para marcar seu trajeto percorrido em tempo real e compartilhar com outras em um raio especifico, exibido as estatísticas do trajeto e o perfil de cada usuário utilizando Java(Android Studio), JavaEE, Spring Boot, Hibernate e Google Maps API.
-* Software para uma empresa de segurança que faz a gestão de rondas que são realizadas pelo aplicativo mobile utilizando JavaEE, Spring Boot, Angular, RESTful, Hibernate(MySQL) e Jasper Reports.
-* Aplicativo mobile para realizar rondas através do QrCode de cada cliente e sincroniza-las com o software de gestão utilizando Java(Android Studio).
-* Aplicativo mobile para a rádio Gerais FM, onde é possível escutar a rádio em tempo real, e enviar mensagens de áudio e texto utilizando PhoneGap, JQuery Mobile e PHP.
-* Aplicativo de chat web para conversas em tempo real utilizando NodeJS, JQuery e WebSockets.
-* Jogo de aeronave e plataforma em 2D para aplicativo mobile e desktop, utilizando Unity 3D.
+* Aplicação comercial para gerenciar, realizar vendas na web emitindo relatórios e comprovantes. Tecnologias utilizadas(JavaEE, JSF 2, PrimeFaces, Hibernate e Jasper Reports).
+* Aplicativo mobile para realizar vendas e sincroniza-las com o aplicação de gerenciamento. Tecnologias utilizadas(Ionic e  TypeScript).
+* Aplicação web para listar as notas fiscais emitidas contra o CNPJ de uma empresa. Tecnologias utilizadas(JavaEE, Spring Boot, Thymeleaf, JQuery e MaterializeCSS).
+* Software desktop para se comunicar com os web services da SEFAZ através de um token na porta USB e persistir as NFe no banco de dados remoto. Tecnologias utilizadas(JavaFX, Hibernate JPA, WSDL e NFeClient).
+* Aplicativo mobile para conversas em tempo real, com a funcionalidade de visualizar a lista de amigos em tempo real no Google Maps. Tecnologias utilizadas(Android Studio, Java, JavaEE, Spring Boot, Hibernate JPA, OpenFire Server, Smack Client e Google Maps API).
+* Aplicativo mobile para marcar seu trajeto percorrido em tempo real e compartilhar com outras em um raio especifico, exibido as estatísticas do trajeto e o perfil de cada usuário. Tecnologias utilizadas(Android Studio, Java, JavaEE, Spring Boot, Hibernate JPA e Google Maps API).
+* Aplicativo mobile para os funcionários de uma empresa especializada em segurança realizar rondas, em um determinado local que o cliente solicitou e registra-las para sincroniza-las com o software de gerenciamento, além disso o cliente será notificado da ronda no mesmo momento por um aplicativo. Tecnologias utilizadas(Android Studio, Java e Google Maps API).
+* Aplicativo mobile direcionado aos clientes de uma empresa especializada em segurança consultar seu histórico de rondas no local que ele solicitou. Tecnologias utilizadas(Android Studio, Java, xCode, Swift).
+* Software de gerenciamento e controle, para uma empresa especializada em segurança fazer a gestão de suas rondas que são realizadas pelo aplicativo mobile do funcionário. Tecnologias utilizadas(JavaEE, Spring Boot, Angular, RESTful, Hibernate JPA e Jasper Reports).   
+* Aplicativo mobile para a rádio Gerais FM, onde é possível escutar a rádio em tempo real, e enviar mensagens de áudio e texto. Tecnologias utilizadas(PhoneGap, JQuery Mobile e PHP).
+* Aplicativo de chat web para conversas em tempo real. Tecnologias utilizadas(NodeJS, JQuery e WebSockets).
+* Jogo de aeronave e plataforma em 2D para aplicativo mobile e desktop. Tecnologias utilizadas(Unity 3D).
 
 
 ## Formação acadêmica
@@ -125,6 +134,7 @@ Espanhol: Intermediário
 * Web Design Responsivo com HTML5, CSS3 e BEM pela Algaworks.
 * Spring Framework Expert pela Algaworks.
 * Fullstack Angular e Spring pela Algaworks.
+* Construa aplicativos mobile do zero com React Native pela Udemy.
 * Produtividade com Bootstrap pela Algaworks.
 * Boletos e arquivos de retorno com Bopepo e Texgit pela Algaworks.
 * Graduação em Sistemas de Informação pela Universidade Federal de Uberlândia.
