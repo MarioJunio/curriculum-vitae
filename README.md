@@ -1,5 +1,5 @@
 ## Mario Junior Marques Martins
-#### Center Developer at Everis
+#### Center Senior Specialist at Everis
 ##### Certificado Oracle OCAJP8
 
 Uberlândia - MG.
@@ -47,11 +47,12 @@ Espanhol: Avançado
   * SASS
   * LESS
   * JQuery
-  * ES6
+  * ES6/ES8
   * Handlebars
 * AngularJS
 * Angular
 * React
+* Redux
 * Thymeleaf
 * PrimeFaces
 * TypeScript
