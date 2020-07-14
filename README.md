@@ -22,6 +22,7 @@ Espanhol: Avançado
 * Java e JavaEE
   * Spring MVC
   * Spring Boot
+  * Micro-Sservices
   * JSF 
   * CDI
   * JPA e Hibernate
@@ -67,7 +68,8 @@ Espanhol: Avançado
 * Android
   * Java
 * iOS
-  * Swift 4
+  * Swift 
+* Flutter
 * React Native
 * Ionic
 * PhoneGap
@@ -87,7 +89,7 @@ Espanhol: Avançado
 * PL/SQL
 
 ## Infraestrutura/Integração Contínua
-
+* New Relic
 * Serviços AWS
 * Tomcat e WildFly
 * Sistema para controle de versão (git)
