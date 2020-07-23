@@ -1,6 +1,6 @@
 ## Mario Junior Marques Martins
-#### Center Senior Specialist at Everis
-##### Certificado Oracle OCAJP8
+#### Engenheiro de Software na PagSeguro
+##### Oracle OCAJP8
 
 Uberlândia - MG.
 
