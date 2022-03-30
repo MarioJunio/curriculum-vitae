@@ -4,8 +4,6 @@
 
 Uberlândia - MG.
 
-Telefone: (34) 987005712
-
 E-mail: dev.mario.93@gmail.com
 
 Github: MarioJunio
